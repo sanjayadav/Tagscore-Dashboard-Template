@@ -1,0 +1,27 @@
+{   "private": true,
+    "dependencies": {
+        "apexcharts": "^3.8.0",
+        "bootstrap": "^4.3.1",
+        "dropzone": "^5.5.1",
+        "flag-icon-css": "^3.3.0",
+        "font-awesome": "^4.7.0",
+        "jquery": "^3.4.1",
+        "masonry-layout": "^4.2.2",
+        "moment": "^2.24.0",
+        "ngx-perfect-scrollbar": "^8.0.0",
+        "owl-carousel": "^1.0.0",
+        "patternomaly": "^1.3.2",
+        "popper.js": "^1.15.0",
+        "promise-polyfill": "^8.1.3",
+        "svg.draggable.js": "^3.0.0",
+        "svg.easing.js": "^2.0.0",
+        "svg.filter.js": "^2.0.2",
+        "svg.js": "^2.7.1",
+        "svg.pathmorphing.js": "^0.1.3",
+        "svg.resize.js": "^1.4.3",
+        "svg.select.js": "^3.0.1",
+        "sweetalert2": "^8.12.1",
+        "tempusdominus-bootstrap-4": "^5.1.2"
+       
+    }
+}
