@@ -1,6 +1,6 @@
 {   "private": true,
     "dependencies": {
-        "apexcharts": "^3.8.0",
+        "apexcharts": "^3.24.0",
         "bootstrap": "^4.3.1",
         "dropzone": "^5.5.1",
         "flag-icon-css": "^3.3.0",
